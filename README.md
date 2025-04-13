@@ -5,7 +5,7 @@
 
 <h3 align="left">Languages I Speak:</h3>
 <p align="left">
-  I am proficient in Spanish (native), and I have an intermediate command of both English and French. I continuously work on improving my communication skills to collaborate effectively in multicultural and international environments.
+  I am proficient in Spanish (native), and I have an intermediate command of both English and French.
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -48,7 +48,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/>
+    <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="laravel" width="50" height="50"/>
   </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/>
