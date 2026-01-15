@@ -72,6 +72,9 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="unity" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="unity" width="100" height="100"/>
+  </a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="unity" width="50" height="50"/>
   </a>
 </p>
