@@ -77,4 +77,7 @@
   <a href="https://vite.dev/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="unity" width="50" height="50"/>
   </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="unity" width="100" height="100"/>
+  </a>
 </p>
