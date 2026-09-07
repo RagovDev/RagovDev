@@ -22,9 +22,6 @@ Spanish (native), English (intermediate), French (intermediate)
   <a href="https://www.linkedin.com/in/ricardo-andres-gomez-villalobos-8a7032107/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://www.facebook.com/ricardo.andres.148/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
-  </a>
   <a href="https://www.instagram.com/ricardoandresgv/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
